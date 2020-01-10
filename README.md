@@ -1,8 +1,6 @@
-# Welcome
+# Garvey Software Customer Support
 
-Welcome to [Garvey Software](https://garveysoftware.com) Customer Support.
-
-Here we provide support for our products available on the Unity Asset Store.  Feel free to submit issues for bugs, help requests, or new features.
+Welcome, here we provide support for our products available on the Unity Asset Store.  Feel free to submit issues for bugs, help requests, or new features.
 
 ## Submit an Issue
 
